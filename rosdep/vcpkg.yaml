@@ -40,5 +40,7 @@ graphicsmagick:
   windows:
     vcpkg:
       packages: [graphicsmagick]
-
-#Test
+benchmark:
+  windows:
+    vcpkg:
+      packages: [benchmark]
