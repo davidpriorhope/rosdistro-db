@@ -40,3 +40,5 @@ graphicsmagick:
   windows:
     vcpkg:
       packages: [graphicsmagick]
+
+#Test
